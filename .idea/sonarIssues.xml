@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/DS_ALGO/src/main/money_view/ReversLinkList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb12/AdditiveNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb12/LeftBottomDiagonalTraversal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb12/LeftDiagonalMatrixTraversal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb12/LeftUpDiagonalMatrixTraversal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb13/ArrayAddition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb13/BestMeetingPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb13/BuySellStockProfit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb13/CheckIfArrayElementConsecutive.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb13/EvaluateExpression.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb14/CountNumberOfSmallerOnRightInLogN.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb14/CountSamallerOnRight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb14/CountSmaller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb14/LargestNumberInKSwap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb16/ChunkMergeArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb20/CopyNpast.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb20/CountAs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb20/FlightsItinerary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb21/MaxFruit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/kikstart/com/interview/feb21/SlidingWindow.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/resource/leetcode_13Feb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/aadhar-status/aadhaarstatuscheckservice/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/ssup-enhancement/unified_app_ssup/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/ssup-enhancement/unified_app_ssup/src/main/java/in/gov/uidai/ssup/controller/UpdateRequestControllerVersion4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/ssup-enhancement/unified_app_ssup/src/main/java/in/gov/uidai/ssup/model/UidaiResidentUpdate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/ssup-enhancement/unified_app_ssup/src/main/java/in/gov/uidai/ssup/services/AcknowledgmentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/ssup-enhancement/unified_app_ssup/src/main/java/in/gov/uidai/ssup/services/v4/DemographicsUpdateServiceV4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/ssup-enhancement/unified_app_ssup/src/main/java/in/gov/uidai/ssup/utils/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/ssup-enhancement/unified_app_ssup/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/ssup-enhancement/unified_app_ssup/src/main/resources/templates/acknowledgement.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/ssup-enhancement/unified_app_ssup/src/test/java/in/gov/uidai/ssup/controller/UpdateRequestControllerVersion4Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/uidaipayumoneyservice/src/main/java/in/gov/uidai/service/PaymentServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/unified_app_order_reprint/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/unified_app_order_reprint/src/main/java/com/uidai/orderReprint/constant/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/unified_app_order_reprint/src/main/java/com/uidai/orderReprint/controller/OrderIntController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/unified_app_order_reprint/src/main/java/com/uidai/orderReprint/kafka/KafkaListenerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/unified_app_order_reprint/src/main/java/com/uidai/orderReprint/model/PaymentCallback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/unified_app_order_reprint/src/main/java/com/uidai/orderReprint/model/SidList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/unified_app_order_reprint/src/main/java/com/uidai/orderReprint/service/impl/OrderReprintServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/unified_app_order_reprint/src/main/java/com/uidai/orderReprint/utils/ApplicationConfigUtility.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../source_code/bitbucket/unified_app_order_reprint/src/test/java/com/uidai/orderReprint/controller/OrderIntControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
